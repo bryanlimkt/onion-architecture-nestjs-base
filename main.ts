@@ -1,0 +1,1 @@
+//use the main.ts file created in nest new <project> command
